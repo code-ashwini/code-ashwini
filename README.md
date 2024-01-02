@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @code-ashwini
 - 👀 I’m interested in APP DEVELOPMENT
-- 🌱 I’m currently learning C-LANGUAGE
-- 💞️ I’m looking to collaborate on NONE
+- 🌱 I’m currently learning JAVA+DSA
 - 📫 How to reach me codeashwinichaturvedi0105@gmail.com
 
 <!---
